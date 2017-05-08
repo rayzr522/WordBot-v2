@@ -18,3 +18,8 @@ yarn start
 ```
 
 That should be enough to get you started. The bot is (not surprisingly) very lightweight. 
+
+## Join Me
+If you need any support for the bot, feel free to join my Discord server!
+
+[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
