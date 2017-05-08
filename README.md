@@ -1,5 +1,5 @@
 # WordBot-v2
-This is a copy of [@abyssvi's WordBot](http://github.com/abyssvi/WordBot), because I have way too much time and I'm overly competitive. Written in less than 10 minutes, using only 5 lines of code.
+This is a copy of [@abyssvi's WordBot](http://github.com/abyssvi/WordBot), because I have way too much time and I'm overly competitive. Written in less than 10 minutes, using only 1 line of code, and no cheating with semicolons to join lines.
 
 ## Installation
 This isn't the most friendly installation, since I didn't include any error checking for the config. Just edit the config to your liking, you may have to play around with it for a bit.
