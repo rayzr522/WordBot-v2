@@ -1,0 +1,15 @@
+{
+  "name": "wordbot-v2",
+  "version": "1.0.0",
+  "description": "A remake of abyssvi's WordBot",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/WordBot-v2",
+  "author": "Rayzr522",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
